@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LordTreesap.aternos.me:39654",
+    "ip": "LordTreesap.aternos.me",
     "port": 39654,
     "version": "",
     "try-creative": false
